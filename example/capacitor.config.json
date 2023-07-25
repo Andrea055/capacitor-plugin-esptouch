@@ -1,0 +1,13 @@
+{
+  "appId": "io.framework7.myapp",
+  "appName": "EspTouch V2 example",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,25 @@
+{
+  "cwd": "C:\\Users\\vivan\\Desktop\\work\\AgroMate\\capacitor-plugin-esptouch\\example",
+  "type": [
+    "capacitor"
+  ],
+  "name": "EspTouch V2 example",
+  "framework": "svelte",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#9416f2",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.myapp",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
